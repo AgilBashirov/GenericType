@@ -1,0 +1,14 @@
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.exe
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.deps.json
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.runtimeconfig.json
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.runtimeconfig.dev.json
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.dll
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\bin\Debug\netcoreapp3.1\LabGeneric.pdb
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.csproj.AssemblyReference.cache
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.AssemblyInfoInputs.cache
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.AssemblyInfo.cs
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.csproj.CoreCompileInputs.cache
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.dll
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.pdb
+C:\Users\agilab\source\repos\LabGeneric\LabGeneric\obj\Debug\netcoreapp3.1\LabGeneric.genruntimeconfig.cache
